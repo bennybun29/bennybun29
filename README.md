@@ -4,6 +4,10 @@
 
 ###
 
+<h1 align="center">Hey there! I am Benedict Nacor</h1>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/benedict-nacor-62ba4032b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
@@ -21,15 +25,11 @@
 
 ###
 
-<h1 align="center">Hey there! I am Benedict Nacor</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="center">A Third Year BSIT Student majoring in System Development at PHINMA - University of Pangasinan with a focus in Mobile Development.<br><br>- 🔭 I’m looking forward to work as a Mobile Developer someday.<br>- 📚 I'm currently learning Flutter, LLM, and AWS.<br>- ⚡ In my free time I play games and music.</p>
+<p align="center">A Third Year BSIT Student majoring in System Development at PHINMA - University of Pangasinan with a focus in Mobile Development.<br><br>- 🔭 I’m looking forward to work as a Mobile Developer someday.<br>- 📚 I'm currently learning Flutter, LLM, AWS, and different types of Architectures.<br>- ⚡ In my free time I play games and music.</p>
 
 ###
 
