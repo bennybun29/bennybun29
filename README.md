@@ -21,8 +21,6 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="center">Hey there! I am Benedict Nacor</h1>
 
 ###
