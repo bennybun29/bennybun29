@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">A Third Year BSIT Student majoring in System Development at PHINMA - University of Pangasinan with a focus in Web and Mobile Development.<br><br>- 🔭 I’m looking forward to be not unemployed in the future<br>- 📚 I'm currently learning ReactJS, LLM, AWS, and different types of Architectures.<br>- ⚡ In my free time I play games and music.</p>
+<p align="center">A Third Year BSIT Student majoring in System Development at PHINMA - University of Pangasinan with a focus in Web and Mobile Development.<br><br>- 🔭 I’m looking forward to be not unemployed in the future<br>- 📚 I'm currently learning ReactJS, LLM, and different types of Architectures.<br>- ⚡ In my free time I play games and music.</p>
 
 ###
 
